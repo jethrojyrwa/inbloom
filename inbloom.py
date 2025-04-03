@@ -9,8 +9,7 @@ from PIL import Image
 import os 
 
 import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
+nltk.download('all')
 
 
 def preprocess_text(text):
