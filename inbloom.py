@@ -107,12 +107,12 @@ st.pyplot(fig)
 st.header("Day-wise Image Gallery")
 
 image_paths = [
-    'D:\\MCA\\3rd Trimester\\Advanced Python Programming\\2447122_ETE3\\image1.jpg',
-    'D:\\MCA\\3rd Trimester\\Advanced Python Programming\\2447122_ETE3\\image2.jpg',
-    'D:\\MCA\\3rd Trimester\\Advanced Python Programming\\2447122_ETE3\\image3.jpg',
-    'D:\\MCA\\3rd Trimester\\Advanced Python Programming\\2447122_ETE3\\image4.jpg',
-    'D:\\MCA\\3rd Trimester\\Advanced Python Programming\\2447122_ETE3\\image5.jpg',
-    'D:\\MCA\\3rd Trimester\\Advanced Python Programming\\2447122_ETE3\\image6.jpg'
+    'image1.jpg',
+    'image2.jpg',
+    'image3.jpg',
+    'image4.jpg',
+    'image5.jpg',
+    'image6.jpg'
 ]
 
 image_captions = [
