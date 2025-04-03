@@ -8,6 +8,11 @@ from nltk.stem import WordNetLemmatizer
 from PIL import Image
 import os 
 
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+
+
 def preprocess_text(text):
     words = word_tokenize(text.lower())
     stop_words = set(stopwords.words("english"))
