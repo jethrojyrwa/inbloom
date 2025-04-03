@@ -134,11 +134,11 @@ selected_path = st.selectbox("Select an Image to Process", image_paths)
 
 if os.path.exists(selected_path):
     img = Image.open(selected_path)
-    st.image(img, caption='Original Image', use_column_width=True)
+    st.image(img, caption='Original Image', use_container_width=True)
 
     # Example of a simple image processing operation
     grayscale_img = img.convert('L')
-    st.image(grayscale_img, caption='Grayscale Image', use_column_width=True)
+    st.image(grayscale_img, caption='Grayscale Image', use_container_width=True)
 
 
 
