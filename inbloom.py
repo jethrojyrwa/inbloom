@@ -134,7 +134,7 @@ for path in image_paths:
 
 
 st.header("Custom Image Processing")
-selected_path = st.selectbox("Select an Image to Process", image_captions)
+selected_path = st.selectbox("Select an Image to Process", image_paths)
 
 if os.path.exists(selected_path):
     img = Image.open(selected_path)
