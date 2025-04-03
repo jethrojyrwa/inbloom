@@ -20,7 +20,7 @@ def preprocess_text(text):
 data = pd.read_csv('event_feedback_dataset.csv')
 data_filtered = data.copy()
 
-st.title("INBLOOM '25 Participation Dashboard")
+st.title("INBLOOM '25")
 
 # Event-wise Participation
 st.header('Event-wise Participation')
