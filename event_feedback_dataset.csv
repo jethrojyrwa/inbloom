@@ -1,0 +1,251 @@
+Participant_ID,Name,Age,Gender,State,College,Event_Name,Event_Date,Feedback_Text,Satisfaction_Level
+P001,James,37,Male,Kansas,Boston University,Dance,2024-11-03,"The choreography was moderate. Overall, the dancers showed inadequate skill. ",Dissatisfied
+P002,Mary,44,Female,Vermont,Pennsylvania State University,Art Exhibition,2024-11-03,The artwork displayed was passable. The curation was uninspired. It was my first time attending such an event.,Dissatisfied
+P003,John,39,Male,North Carolina,Vanderbilt University,Music,2024-11-03,The harmony between instruments was sufficient. The overall sound quality was tolerable.,Neutral
+P004,Patricia,45,Male,Delaware,University of Melbourne,Stand-up Comedy,2024-11-04,The punchlines were incredible. The stage presence was brilliant.,Very Satisfied
+P005,Robert,64,Female,Texas,Yale University,Art Exhibition,2024-11-03,The artistic technique was decent. The gallery layout was extraordinary. Looking forward to the next edition.,Satisfied
+P006,Jennifer,61,Female,Montana,Brown University,Drama,2024-11-05,The cast chemistry was excellent. The narrative structure was splendid. The venue was well-suited to this type of event.,Very Satisfied
+P007,Michael,31,Female,Texas,University of Melbourne,Drama,2024-11-01,The cast chemistry was acceptable. The narrative structure was adequate. The venue was perfect for this type of event.,Neutral
+P008,Linda,44,Female,Montana,Indian Institute of Science,Cooking Competition,2024-11-02,The culinary creativity was splendid. The technical skill was excellent. Looking forward to future performances.,Satisfied
+P009,William,26,Female,Wisconsin,University of Texas at Austin,Debate,2024-11-05,The topic exploration was amazing. The counterpoints were fantastic. It was my first time attending such an event.,Very Satisfied
+P010,Elizabeth,35,Female,New Hampshire,Northwestern University,Debate,2024-11-04,The arguments presented were flawed. The rebuttals were typical. It was my second time attending such an event.,Dissatisfied
+P011,David,22,Male,Arkansas,University of British Columbia,Stand-up Comedy,2024-11-05,The humor was standard. The audience engagement was reasonable.,Satisfied
+P012,Barbara,44,Female,Iowa,Indian Institute of Science,Debate,2024-11-05,The evidence provided was tolerable. The speakers' delivery was disappointing.,Dissatisfied
+P013,Richard,26,Other,Oregon,King's College London,Debate,2024-11-01,The arguments presented were superb. The rebuttals were average. The venue was appropriate for this type of event.,Satisfied
+P014,Susan,44,Male,Ohio,University of North Carolina at Chapel Hill,Music,2024-11-04,The musical arrangement was poor. The vocalists were subpar. It was my first time attending such an event.,Very Dissatisfied
+P015,Joseph,31,Male,Rhode Island,Imperial College London,Poetry,2024-11-03,The poetic imagery was inadequate. The recitation was mediocre. The venue was perfect for this type of event.,Dissatisfied
+P016,Jessica,55,Female,Rhode Island,Boston University,Art Exhibition,2024-11-01,The artwork displayed was passable. The curation was typical. ,Neutral
+P017,Thomas,24,Male,Idaho,University of Sydney,Stand-up Comedy,2024-11-04,The comic narrative was poor. The improvisation was ordinary. It was my second time attending such an event.,Dissatisfied
+P018,Sarah,23,Male,South Carolina,London School of Economics,Film Screening,2024-11-02,The directorial approach was adequate. The character development was outstanding.,Satisfied
+P019,Charles,56,Female,Illinois,Peking University,Poetry,2024-11-05,The poetic imagery was subpar. The recitation was mediocre. The venue was well-suited to this type of event.,Very Dissatisfied
+P020,Karen,36,Male,New Mexico,Georgia Institute of Technology,Art Exhibition,2024-11-03,The conceptual depth was fantastic. The presentation was masterful. It was my second time attending such an event.,Very Satisfied
+P021,Christopher,38,Male,West Virginia,"University of California, Los Angeles",Debate,2024-11-02,The topic exploration was ordinary. The counterpoints were deficient. I liked the atmosphere.,Dissatisfied
+P022,Lisa,20,Other,Wisconsin,Rice University,Debate,2024-11-03,The topic exploration was satisfactory. The counterpoints were uninspired. I really enjoyed the event.,Dissatisfied
+P023,Daniel,22,Male,Georgia,Oxford University,Music,2024-11-05,The rhythm section was unsatisfactory. The vocal performances were lackluster.,Very Dissatisfied
+P024,Nancy,46,Female,Oregon,Brown University,Poetry,2024-11-05,The wordplay was impressive. The overall performance was brilliant. Looking forward to similar events.,Satisfied
+P025,Matthew,46,Female,Maine,New York University,Film Screening,2024-11-03,The visual effects were mediocre. The sound design was forgettable. It was my third time attending such an event.,Very Dissatisfied
+P026,Betty,59,Male,Hawaii,Princeton University,Poetry,2024-11-02,The metaphorical content was inadequate. The poets' presence was mediocre. I would probably recommend this to friends.,Very Dissatisfied
+P027,Anthony,23,Female,Alaska,University of Southern California,Fashion Show,2024-11-03,The clothing designs were extraordinary. The runway presentation was incredible. The venue was perfect for this type of event.,Very Satisfied
+P028,Sandra,29,Other,Minnesota,Indian Institute of Technology Delhi,Fashion Show,2024-11-04,The fabric choices were poor. The overall aesthetic was poor. The venue was well-suited to this type of event.,Very Dissatisfied
+P029,Mark,53,Male,Delaware,University of Texas at Austin,Music,2024-11-03,The harmony between instruments was tolerable. The overall sound quality was ordinary. The venue was perfect for this type of event.,Neutral
+P030,Emily,35,Female,Alaska,California Institute of Technology,Poetry,2024-11-04,The wordplay was wonderful. The overall performance was phenomenal.,Satisfied
+P031,Donald,47,Female,Virginia,University of Melbourne,Drama,2024-11-04,The dialogues were standard. The plot progression was tolerable. Looking forward to similar events.,Neutral
+P032,Ashley,35,Female,Alabama,Northwestern University,Fashion Show,2024-11-03,The styling was splendid. The thematic coherence was incredible. Looking forward to the next edition.,Very Satisfied
+P033,Steven,38,Female,Wyoming,New York University,Art Exhibition,2024-11-05,The color schemes were remarkable. The interpretive descriptions were decent. I valued the occasion.,Satisfied
+P034,Margaret,24,Female,Alabama,Indian Institute of Technology Bombay,Film Screening,2024-11-01,The acting performances were first-rate. The storyline was exceptional. I really enjoyed the occasion.,Very Satisfied
+P035,Paul,61,Female,Arizona,Tsinghua University,Fashion Show,2024-11-03,The fashion innovation was exceptional. The show production was wonderful.,Satisfied
+P036,Kimberly,24,Male,Arkansas,University of Texas at Austin,Poetry,2024-11-01,The metaphorical content was poor. The poets' presence was poor. It was my first time attending such an event.,Very Dissatisfied
+P037,Andrew,42,Female,Iowa,Oxford University,Art Exhibition,2024-11-04,The color schemes were magnificent. The interpretive descriptions were top-notch. The venue was well-suited to this type of event.,Very Satisfied
+P038,Amanda,55,Male,Illinois,Brown University,Fashion Show,2024-11-03,The fabric choices were sufficient. The overall aesthetic was brilliant.,Satisfied
+P039,Joshua,35,Male,Maine,University of Arizona,Dance,2024-11-05,I found the dance performance to be fair and top-notch.,Satisfied
+P040,Michelle,58,Female,Mississippi,King's College London,Poetry,2024-11-04,The rhythmic flow was lackluster. The emotional delivery was bland. Looking forward to similar events.,Very Dissatisfied
+P041,Kenneth,41,Female,New Mexico,University of Minnesota,Poetry,2024-11-02,The metaphorical content was moderate. The poets' presence was tolerable.,Neutral
+P042,Dorothy,41,Male,Delaware,Tsinghua University,Fashion Show,2024-11-01,The fabric choices were acceptable. The overall aesthetic was sufficient. I liked the occasion.,Neutral
+P043,Kevin,57,Male,Nebraska,Vanderbilt University,Music,2024-11-04,The musical arrangement was fair. The vocalists were decent.,Neutral
+P044,Melissa,60,Female,Washington,University of North Carolina at Chapel Hill,Debate,2024-11-04,The logical structure was first-rate. The rhetorical skill was impressive. The venue was well-suited to this type of event.,Very Satisfied
+P045,Brian,41,Male,Montana,Princeton University,Stand-up Comedy,2024-11-05,The comedic delivery was satisfactory. The material was adequate. I valued the atmosphere.,Neutral
+P046,Donna,26,Female,Pennsylvania,"University of California, Los Angeles",Art Exhibition,2024-11-01,The visual impact of the exhibition was extraordinary. The thematic coherence was phenomenal. It was my second time attending such an event.,Very Satisfied
+P047,George,26,Male,Idaho,Stanford University,Art Exhibition,2024-11-05,The artistic technique was decent. The gallery layout was fair.,Neutral
+P048,Carol,50,Male,New Jersey,Brown University,Cooking Competition,2024-11-01,The dish presentation was outstanding. The flavor combinations were wonderful.,Very Satisfied
+P049,Edward,38,Female,South Dakota,University College London,Music,2024-11-02,The rhythm section was ordinary. The vocal performances were moderate. The venue was appropriate for this type of event.,Neutral
+P050,Samantha,64,Female,Michigan,University of British Columbia,Fashion Show,2024-11-04,The fabric choices were passable. The overall aesthetic was tolerable. It was my second time attending such an event.,Dissatisfied
+P051,Ronald,23,Female,West Virginia,University of North Carolina at Chapel Hill,Music,2024-11-04,The melody was uninspired. The instrumental solos were underwhelming.,Very Dissatisfied
+P052,Christine,45,Female,Minnesota,Brown University,Dance,2024-11-03,"The choreography was incredible. Overall, the dancers showed fantastic skill. Looking forward to similar events.",Very Satisfied
+P053,Timothy,35,Female,Utah,University College London,Fashion Show,2024-11-05,The fashion innovation was excellent. The show production was amazing.,Very Satisfied
+P054,Janet,29,Female,West Virginia,Oxford University,Cooking Competition,2024-11-04,The dish presentation was lackluster. The flavor combinations were mediocre. ,Very Dissatisfied
+P055,Jason,23,Female,Utah,Princeton University,Drama,2024-11-02,The acting was magnificent. The storyline was top-notch. Looking forward to the next edition.,Very Satisfied
+P056,Catherine,25,Male,Maryland,University of Notre Dame,Cooking Competition,2024-11-04,The dish presentation was extraordinary. The flavor combinations were stellar.,Very Satisfied
+P057,Jeffrey,18,Female,Ohio,University of Illinois Urbana-Champaign,Fashion Show,2024-11-02,The fashion collection was lackluster. The models' walks were underwhelming. I liked the atmosphere.,Dissatisfied
+P058,Frances,54,Male,Montana,California Institute of Technology,Fashion Show,2024-11-04,The clothing designs were acceptable. The runway presentation was fair. The venue was perfect for this type of event.,Neutral
+P059,Ryan,65,Male,South Dakota,University of Melbourne,Stand-up Comedy,2024-11-02,The jokes were deficient. The comedian's timing was deficient. It was my second time attending such an event.,Very Dissatisfied
+P060,Ann,27,Female,Wisconsin,Indian Institute of Technology Bombay,Music,2024-11-02,The rhythm section was ordinary. The vocal performances were decent. I would definitely recommend this to friends.,Satisfied
+P061,Jacob,40,Female,Arkansas,MIT,Poetry,2024-11-04,The metaphorical content was incredible. The poets' presence was exceptional.,Satisfied
+P062,Joyce,54,Female,Georgia,University of Melbourne,Stand-up Comedy,2024-11-05,The jokes were ordinary. The comedian's timing was brilliant. The venue was perfect for this type of event.,Satisfied
+P063,Gary,51,Female,Missouri,Cornell University,Drama,2024-11-03,The emotional depth of the performance was passable. The staging was acceptable. I would probably recommend this to friends.,Neutral
+P064,Alice,39,Male,Vermont,Vanderbilt University,Drama,2024-11-03,The emotional depth of the performance was fair. The staging was typical.,Neutral
+P065,Nicholas,59,Female,Maryland,Georgia Institute of Technology,Debate,2024-11-03,The logical structure was subpar. The rhetorical skill was poor. I valued the experience.,Very Dissatisfied
+P066,Heather,20,Female,Georgia,University of Illinois Urbana-Champaign,Cooking Competition,2024-11-02,The culinary creativity was superb. The technical skill was amazing.,Very Satisfied
+P067,Eric,57,Male,Maryland,Duke University,Film Screening,2024-11-02,The directorial approach was brilliant. The character development was masterful. It was my second time attending such an event.,Very Satisfied
+P068,Emma,56,Male,Oklahoma,Georgia Institute of Technology,Poetry,2024-11-01,The poetic imagery was tolerable. The recitation was extraordinary. The venue was appropriate for this type of event.,Satisfied
+P069,Jonathan,46,Female,North Carolina,University of Toronto,Dance,2024-11-04,The rhythm and movement were subpar. The technical execution was weak.,Very Dissatisfied
+P070,Maria,20,Male,South Carolina,National University of Singapore,Film Screening,2024-11-02,The cinematography was superb. The narrative pacing was outstanding. I liked the experience.,Satisfied
+P071,Stephen,33,Male,South Carolina,Rice University,Dance,2024-11-02,The dancers demonstrated exceptional coordination. The performance was extraordinary.,Satisfied
+P072,Alexandra,40,Male,Mississippi,Peking University,Fashion Show,2024-11-02,The clothing designs were deficient. The runway presentation was deficient.,Very Dissatisfied
+P073,Larry,22,Male,Arizona,University of Pennsylvania,Music,2024-11-05,The melody was ordinary. The instrumental solos were acceptable.,Neutral
+P074,Sophia,36,Male,North Carolina,Brown University,Art Exhibition,2024-11-01,The color schemes were tolerable. The interpretive descriptions were ordinary. I valued the event.,Neutral
+P075,Justin,39,Male,New Hampshire,University of North Carolina at Chapel Hill,Stand-up Comedy,2024-11-04,The punchlines were adequate. The stage presence was masterful.,Satisfied
+P076,Olivia,52,Male,Maine,University of Notre Dame,Music,2024-11-01,The melody was average. The instrumental solos were typical. I would probably recommend this to friends.,Neutral
+P077,Scott,58,Other,North Carolina,Georgia Institute of Technology,Dance,2024-11-01,I found the dance performance to be outstanding and splendid. The venue was perfect for this type of event.,Satisfied
+P078,Isabella,20,Female,Wisconsin,National University of Singapore,Film Screening,2024-11-03,The cinematography was typical. The narrative pacing was fair.,Neutral
+P079,Brandon,51,Male,Kentucky,Purdue University,Debate,2024-11-01,The topic exploration was satisfactory. The counterpoints were typical. ,Neutral
+P080,Rebecca,60,Male,Maryland,Cornell University,Music,2024-11-05,The band's performance was superb and the acoustics were masterful. Looking forward to the next edition.,Very Satisfied
+P081,Benjamin,47,Female,California,Columbia University,Debate,2024-11-02,The evidence provided was stellar. The speakers' delivery was wonderful. The venue was perfect for this type of event.,Very Satisfied
+P082,Laura,51,Male,Florida,Purdue University,Debate,2024-11-05,The topic exploration was lackluster. The counterpoints were bland. ,Dissatisfied
+P083,Samuel,23,Male,Maryland,Rice University,Debate,2024-11-03,The debating technique was underwhelming. The overall engagement was fair.,Dissatisfied
+P084,Jacqueline,19,Male,Oregon,Purdue University,Cooking Competition,2024-11-03,The plating aesthetics were unsatisfactory. The taste profile was poor.,Dissatisfied
+P085,Gregory,47,Male,New Mexico,University of British Columbia,Dance,2024-11-02,The dancers demonstrated first-rate coordination. The performance was adequate.,Satisfied
+P086,Taylor,50,Female,Louisiana,California Institute of Technology,Stand-up Comedy,2024-11-02,The punchlines were wonderful. The stage presence was splendid. It was my second time attending such an event.,Satisfied
+P087,Alexander,54,Female,New Jersey,University of Melbourne,Art Exhibition,2024-11-02,The color schemes were amazing. The interpretive descriptions were moderate. I would possibly recommend this to friends.,Satisfied
+P088,Victoria,49,Female,Connecticut,Harvard University,Film Screening,2024-11-03,The directorial approach was exceptional. The character development was magnificent. It was my second time attending such an event.,Very Satisfied
+P089,Frank,36,Male,South Carolina,Northwestern University,Debate,2024-11-04,The debating technique was impressive. The overall engagement was exceptional.,Very Satisfied
+P090,Zoe,43,Female,Michigan,University of Florida,Dance,2024-11-01,The dancers demonstrated lackluster coordination. The performance was mediocre. Looking forward to similar events.,Dissatisfied
+P091,Patrick,39,Female,Oregon,University of Florida,Debate,2024-11-05,The evidence provided was sufficient. The speakers' delivery was outstanding. ,Satisfied
+P092,Natalie,58,Male,Iowa,London School of Economics,Film Screening,2024-11-03,The cinematography was incredible. The narrative pacing was wonderful. ,Very Satisfied
+P093,Raymond,46,Male,North Carolina,University of British Columbia,Drama,2024-11-04,The cast chemistry was bland. The narrative structure was disappointing.,Dissatisfied
+P094,Nicole,29,Male,Utah,Carnegie Mellon University,Debate,2024-11-03,The evidence provided was amazing. The speakers' delivery was wonderful.,Very Satisfied
+P095,Jack,36,Female,Oklahoma,Carnegie Mellon University,Film Screening,2024-11-03,The visual effects were incredible. The sound design was extraordinary. ,Satisfied
+P096,Charlotte,59,Male,Ohio,University of Minnesota,Film Screening,2024-11-02,The visual effects were bland. The sound design was underwhelming. I liked the experience.,Dissatisfied
+P097,Dennis,58,Male,New Mexico,University of Florida,Music,2024-11-04,The musical arrangement was sufficient. The vocalists were passable.,Neutral
+P098,Grace,48,Female,Arkansas,Vanderbilt University,Poetry,2024-11-03,The poetic imagery was sufficient. The recitation was typical.,Neutral
+P099,Jerry,65,Other,Oregon,Brown University,Poetry,2024-11-01,The wordplay was lackluster. The overall performance was bland. It was my second time attending such an event.,Very Dissatisfied
+P100,Amelia,47,Male,New Jersey,University of Wisconsin-Madison,Music,2024-11-03,The melody was flawed. The instrumental solos were acceptable. ,Dissatisfied
+P101,Tyler,45,Female,Florida,University of Michigan,Music,2024-11-04,The harmony between instruments was poor. The overall sound quality was bland.,Very Dissatisfied
+P102,Evelyn,37,Female,Mississippi,Vanderbilt University,Cooking Competition,2024-11-01,The culinary creativity was decent. The technical skill was sufficient. ,Neutral
+P103,Aaron,41,Female,New Jersey,Oxford University,Art Exhibition,2024-11-02,The conceptual depth was satisfactory. The presentation was standard. Looking forward to similar events.,Satisfied
+P104,Hannah,22,Female,Illinois,University of Melbourne,Music,2024-11-01,The rhythm section was marvelous. The vocal performances were exceptional. Looking forward to future performances.,Very Satisfied
+P105,Jose,50,Male,Nebraska,University of Melbourne,Dance,2024-11-04,The dancers demonstrated subpar coordination. The performance was adequate.,Dissatisfied
+P106,Madison,20,Male,New Mexico,Yale University,Music,2024-11-05,The musical arrangement was unsatisfactory. The vocalists were weak. The venue was well-suited to this type of event.,Very Dissatisfied
+P107,Adam,23,Female,Idaho,California Institute of Technology,Debate,2024-11-02,The debating technique was standard. The overall engagement was ordinary. Looking forward to the next edition.,Neutral
+P108,Abigail,33,Male,Wisconsin,University of Wisconsin-Madison,Drama,2024-11-03,The acting was adequate. The storyline was unimpressive. The venue was perfect for this type of event.,Dissatisfied
+P109,Henry,65,Male,Wisconsin,"University of California, Los Angeles",Film Screening,2024-11-02,The cinematography was exceptional. The narrative pacing was fantastic. ,Very Satisfied
+P110,Gabriella,33,Male,Maryland,University of British Columbia,Drama,2024-11-05,The dialogues were adequate. The plot progression was underwhelming.,Dissatisfied
+P111,Douglas,62,Male,Wisconsin,University of Michigan,Drama,2024-11-03,The cast chemistry was sufficient. The narrative structure was wonderful. The venue was appropriate for this type of event.,Satisfied
+P112,Lily,33,Male,Colorado,Georgia Institute of Technology,Stand-up Comedy,2024-11-01,The comic narrative was stellar. The improvisation was impressive.,Satisfied
+P113,Nathan,64,Female,Maryland,University of Washington,Art Exhibition,2024-11-04,The artwork displayed was standard. The curation was bland. It was my third time attending such an event.,Dissatisfied
+P114,Claire,38,Female,Minnesota,Vanderbilt University,Fashion Show,2024-11-04,The styling was magnificent. The thematic coherence was masterful.,Very Satisfied
+P115,Peter,44,Male,Oklahoma,University of Southern California,Art Exhibition,2024-11-02,The conceptual depth was inadequate. The presentation was mediocre. It was my first time attending such an event.,Very Dissatisfied
+P116,Julia,49,Other,Minnesota,University of Wisconsin-Madison,Film Screening,2024-11-04,The acting performances were reasonable. The storyline was deficient. I valued the experience.,Dissatisfied
+P117,Zachary,60,Male,South Dakota,University of Arizona,Dance,2024-11-04,I found the dance performance to be fair and flawed. ,Dissatisfied
+P118,Lillian,60,Female,Alabama,University of British Columbia,Dance,2024-11-05,"The choreography was fantastic. Overall, the dancers showed magnificent skill.",Very Satisfied
+P119,Kyle,24,Female,South Carolina,"University of California, Berkeley",Debate,2024-11-02,The debating technique was ordinary. The overall engagement was mediocre. It was my second time attending such an event.,Dissatisfied
+P120,Addison,32,Male,Missouri,University of Toronto,Music,2024-11-01,The harmony between instruments was deficient. The overall sound quality was flawed.,Very Dissatisfied
+P121,Ethan,24,Female,Oregon,"University of California, San Diego",Dance,2024-11-02,The dancers demonstrated ordinary coordination. The performance was adequate. I would possibly recommend this to friends.,Dissatisfied
+P122,Alexis,27,Female,Oregon,Cambridge University,Fashion Show,2024-11-01,The fashion collection was typical. The models' walks were tolerable.,Neutral
+P123,Walter,24,Male,South Carolina,Purdue University,Music,2024-11-03,The rhythm section was stellar. The vocal performances were phenomenal. The venue was perfect for this type of event.,Very Satisfied
+P124,Kayla,61,Female,Kansas,Cornell University,Fashion Show,2024-11-01,The clothing designs were remarkable. The runway presentation was magnificent. I would possibly recommend this to friends.,Very Satisfied
+P125,Noah,37,Male,Idaho,Columbia University,Poetry,2024-11-01,The verse structure was mediocre. The thematic exploration was underwhelming. Looking forward to future performances.,Dissatisfied
+P126,Savannah,36,Male,North Dakota,London School of Economics,Music,2024-11-05,The band's performance was weak and the acoustics were passable. It was my second time attending such an event.,Dissatisfied
+P127,Jeremy,48,Female,South Dakota,University of Wisconsin-Madison,Stand-up Comedy,2024-11-03,The punchlines were unsatisfactory. The stage presence was unsatisfactory.,Dissatisfied
+P128,Audrey,39,Male,Massachusetts,Brown University,Fashion Show,2024-11-05,The fashion innovation was flawed. The show production was standard.,Dissatisfied
+P129,Christian,38,Male,Illinois,London School of Economics,Fashion Show,2024-11-03,The fashion innovation was deficient. The show production was underwhelming.,Very Dissatisfied
+P130,Allison,26,Female,Nevada,University of Florida,Art Exhibition,2024-11-03,The color schemes were fair. The interpretive descriptions were mediocre. I would possibly recommend this to friends.,Dissatisfied
+P131,Keith,58,Female,Tennessee,Cambridge University,Music,2024-11-02,The rhythm section was decent. The vocal performances were typical. Looking forward to similar events.,Neutral
+P132,Leah,62,Female,Wyoming,Indian Institute of Technology Bombay,Film Screening,2024-11-03,The screenplay was passable. The emotional impact was splendid.,Satisfied
+P133,Roger,37,Male,New Mexico,Carnegie Mellon University,Art Exhibition,2024-11-05,The artwork displayed was ordinary. The curation was ordinary. I would definitely recommend this to friends.,Satisfied
+P134,Chloe,61,Female,Hawaii,Fudan University,Art Exhibition,2024-11-05,The artistic technique was underwhelming. The gallery layout was tolerable. The venue was perfect for this type of event.,Dissatisfied
+P135,Terry,46,Female,Louisiana,"University of California, Los Angeles",Fashion Show,2024-11-01,The clothing designs were subpar. The runway presentation was satisfactory. The venue was appropriate for this type of event.,Dissatisfied
+P136,Mackenzie,42,Female,New Jersey,Carnegie Mellon University,Cooking Competition,2024-11-01,The cooking technique was fair. The overall execution was tolerable. I liked the atmosphere.,Neutral
+P137,Gerald,42,Male,Idaho,University of Sydney,Drama,2024-11-05,The emotional depth of the performance was mediocre. The staging was masterful.,Satisfied
+P138,Isabelle,49,Male,New York,Vanderbilt University,Fashion Show,2024-11-05,The fabric choices were wonderful. The overall aesthetic was first-rate.,Very Satisfied
+P139,Harold,35,Male,West Virginia,London School of Economics,Poetry,2024-11-02,The verse structure was passable. The thematic exploration was extraordinary.,Satisfied
+P140,Arianna,31,Other,New Hampshire,MIT,Music,2024-11-02,The melody was acceptable. The instrumental solos were tolerable. I would definitely recommend this to friends.,Neutral
+P141,Sean,57,Female,Indiana,Pennsylvania State University,Drama,2024-11-05,The dramatic tension was unimpressive. The character development was adequate.,Dissatisfied
+P142,Faith,50,Other,Louisiana,Princeton University,Music,2024-11-02,The band's performance was magnificent and the acoustics were wonderful. ,Satisfied
+P143,Austin,46,Male,Louisiana,University of North Carolina at Chapel Hill,Music,2024-11-04,The melody was top-notch. The instrumental solos were wonderful. ,Very Satisfied
+P144,Makayla,22,Female,Indiana,University of Minnesota,Fashion Show,2024-11-02,The fabric choices were marvelous. The overall aesthetic was decent.,Satisfied
+P145,Carl,24,Female,New Hampshire,Cambridge University,Film Screening,2024-11-01,The directorial approach was disappointing. The character development was weak. I would probably recommend this to friends.,Very Dissatisfied
+P146,Reagan,21,Male,Colorado,Vanderbilt University,Poetry,2024-11-02,The poetic imagery was excellent. The recitation was first-rate. I valued the atmosphere.,Satisfied
+P147,Arthur,45,Female,Colorado,University of Illinois Urbana-Champaign,Film Screening,2024-11-01,The cinematography was satisfactory. The narrative pacing was sufficient.,Dissatisfied
+P148,Madeline,18,Female,Indiana,University of Wisconsin-Madison,Drama,2024-11-04,The dramatic tension was mediocre. The character development was standard. The venue was perfect for this type of event.,Neutral
+P149,Lawrence,26,Male,Rhode Island,Imperial College London,Music,2024-11-02,The rhythm section was splendid. The vocal performances were excellent.,Very Satisfied
+P150,Gianna,33,Female,Rhode Island,Rice University,Music,2024-11-02,The musical arrangement was tolerable. The vocalists were excellent. ,Satisfied
+P151,Dylan,22,Male,Arizona,"University of California, Los Angeles",Music,2024-11-01,The musical arrangement was passable. The vocalists were standard. Looking forward to similar events.,Neutral
+P152,Anna,37,Male,Montana,University of Texas at Austin,Art Exhibition,2024-11-02,The conceptual depth was remarkable. The presentation was splendid. Looking forward to the next edition.,Very Satisfied
+P153,Jesse,37,Female,Florida,University of Florida,Drama,2024-11-01,The acting was underwhelming. The storyline was flawed.,Very Dissatisfied
+P154,Aaliyah,39,Female,Virginia,University of Southern California,Poetry,2024-11-05,The wordplay was unimpressive. The overall performance was lackluster.,Very Dissatisfied
+P155,Jordan,24,Female,Arizona,Harvard University,Music,2024-11-02,The musical arrangement was extraordinary. The vocalists were outstanding. ,Very Satisfied
+P156,Maya,44,Male,California,Northwestern University,Art Exhibition,2024-11-04,The conceptual depth was acceptable. The presentation was adequate. The venue was perfect for this type of event.,Neutral
+P157,Bryan,37,Male,Illinois,Georgia Institute of Technology,Debate,2024-11-04,The evidence provided was inadequate. The speakers' delivery was uninspired.,Very Dissatisfied
+P158,Lauren,27,Male,Minnesota,Tsinghua University,Fashion Show,2024-11-01,The clothing designs were sufficient. The runway presentation was decent. I valued the event.,Dissatisfied
+P159,Billy,27,Female,Nebraska,Peking University,Music,2024-11-01,The melody was mediocre. The instrumental solos were deficient. Looking forward to the next edition.,Dissatisfied
+P160,Kaitlyn,36,Male,New Hampshire,University of Texas at Austin,Stand-up Comedy,2024-11-04,The comedic delivery was satisfactory. The material was adequate. The venue was perfect for this type of event.,Neutral
+P161,Joe,40,Other,Kentucky,Indian Institute of Technology Bombay,Art Exhibition,2024-11-04,The artwork displayed was adequate. The curation was fair.,Neutral
+P162,Madelyn,43,Female,Montana,Stanford University,Poetry,2024-11-03,The verse structure was underwhelming. The thematic exploration was deficient. It was my second time attending such an event.,Dissatisfied
+P163,Bruce,61,Female,California,University of Southern California,Music,2024-11-05,The musical arrangement was remarkable. The vocalists were brilliant.,Very Satisfied
+P164,Katie,45,Female,Utah,University of Illinois Urbana-Champaign,Fashion Show,2024-11-04,The fabric choices were underwhelming. The overall aesthetic was poor. Looking forward to similar events.,Very Dissatisfied
+P165,Gabriel,44,Female,Missouri,Northwestern University,Film Screening,2024-11-01,The acting performances were weak. The storyline was subpar. The venue was appropriate for this type of event.,Very Dissatisfied
+P166,Naomi,38,Male,Iowa,Imperial College London,Drama,2024-11-01,The acting was mediocre. The storyline was passable.,Neutral
+P167,Logan,24,Male,West Virginia,University of Minnesota,Art Exhibition,2024-11-03,The artwork displayed was extraordinary. The curation was incredible. ,Very Satisfied
+P168,Lucy,55,Male,Oregon,Oxford University,Stand-up Comedy,2024-11-05,The humor was wonderful. The audience engagement was marvelous. It was my second time attending such an event.,Very Satisfied
+P169,Albert,18,Male,Virginia,University of Washington,Cooking Competition,2024-11-02,The culinary creativity was bland. The technical skill was unimpressive.,Dissatisfied
+P170,Cassandra,22,Male,Maryland,University of Washington,Fashion Show,2024-11-05,The styling was underwhelming. The thematic coherence was underwhelming.,Very Dissatisfied
+P171,Willie,32,Female,Vermont,University of Wisconsin-Madison,Drama,2024-11-04,The dialogues were fair. The plot progression was fair. Looking forward to future performances.,Neutral
+P172,Kaylee,49,Male,Hawaii,University of Texas at Austin,Music,2024-11-02,The musical arrangement was tolerable. The vocalists were moderate. I would probably recommend this to friends.,Neutral
+P173,Alan,21,Male,Missouri,Indian Institute of Science,Fashion Show,2024-11-02,The styling was mediocre. The thematic coherence was reasonable. I really enjoyed the occasion.,Satisfied
+P174,Hailey,19,Male,Missouri,Cambridge University,Music,2024-11-01,The band's performance was moderate and the acoustics were adequate. ,Neutral
+P175,Juan,21,Male,Oklahoma,"University of California, San Diego",Art Exhibition,2024-11-02,The conceptual depth was fantastic. The presentation was incredible. The venue was appropriate for this type of event.,Satisfied
+P176,Alexa,45,Male,Alaska,University of Chicago,Cooking Competition,2024-11-04,The culinary creativity was acceptable. The technical skill was poor. ,Dissatisfied
+P177,Wayne,29,Male,Arizona,National University of Singapore,Fashion Show,2024-11-03,The styling was mediocre. The thematic coherence was mediocre.,Dissatisfied
+P178,Alyssa,52,Male,Missouri,Princeton University,Cooking Competition,2024-11-02,The cooking technique was first-rate. The overall execution was marvelous.,Very Satisfied
+P179,Elijah,50,Female,Delaware,Oxford University,Debate,2024-11-05,The topic exploration was superb. The counterpoints were superb.,Very Satisfied
+P180,Sierra,58,Male,California,University of Wisconsin-Madison,Cooking Competition,2024-11-03,The dish presentation was standard. The flavor combinations were ordinary.,Neutral
+P181,Randy,25,Male,Wisconsin,King's College London,Drama,2024-11-05,The acting was impressive. The storyline was incredible. The venue was appropriate for this type of event.,Very Satisfied
+P182,Ellie,48,Male,Rhode Island,University College London,Poetry,2024-11-04,The verse structure was adequate. The thematic exploration was passable.,Dissatisfied
+P183,Roy,35,Female,West Virginia,Brown University,Music,2024-11-02,The harmony between instruments was inadequate. The overall sound quality was mediocre. The venue was well-suited to this type of event.,Dissatisfied
+P184,Peyton,51,Female,Maryland,Yale University,Dance,2024-11-05,The dance ensemble was passable synchronized. The stage presence was reasonable. I really enjoyed the experience.,Dissatisfied
+P185,Vincent,63,Male,South Dakota,University of Toronto,Stand-up Comedy,2024-11-04,The jokes were excellent. The comedian's timing was extraordinary. I would probably recommend this to friends.,Very Satisfied
+P186,Nora,34,Female,Arkansas,University of Illinois Urbana-Champaign,Music,2024-11-03,The band's performance was forgettable and the acoustics were inadequate. The venue was well-suited to this type of event.,Very Dissatisfied
+P187,Ralph,26,Female,Rhode Island,University of Southern California,Cooking Competition,2024-11-01,The ingredient usage was flawed. The time management was flawed. I would probably recommend this to friends.,Dissatisfied
+P188,Molly,55,Male,Rhode Island,Vanderbilt University,Debate,2024-11-03,The debating technique was splendid. The overall engagement was splendid. I would probably recommend this to friends.,Very Satisfied
+P189,Eugene,30,Male,Texas,University of Toronto,Art Exhibition,2024-11-01,The artistic technique was exceptional. The gallery layout was excellent.,Very Satisfied
+P190,Stella,54,Female,New Mexico,Rice University,Stand-up Comedy,2024-11-02,The comedic delivery was fantastic. The material was splendid.,Very Satisfied
+P191,Russell,53,Female,Minnesota,New York University,Drama,2024-11-03,The dramatic tension was mediocre. The character development was forgettable. I liked the occasion.,Very Dissatisfied
+P192,Kylee,57,Male,Missouri,Boston University,Art Exhibition,2024-11-05,The conceptual depth was unsatisfactory. The presentation was weak.,Very Dissatisfied
+P193,Bobby,47,Male,South Dakota,University of Washington,Drama,2024-11-01,The dramatic tension was decent. The character development was impressive.,Satisfied
+P194,Autumn,23,Male,New Mexico,University of Sydney,Fashion Show,2024-11-04,The fabric choices were excellent. The overall aesthetic was remarkable. I appreciated the event.,Satisfied
+P195,Mason,62,Female,North Carolina,University of Illinois Urbana-Champaign,Poetry,2024-11-02,The wordplay was unsatisfactory. The overall performance was underwhelming. Looking forward to future performances.,Very Dissatisfied
+P196,Sophie,49,Male,Iowa,Stanford University,Art Exhibition,2024-11-02,The visual impact of the exhibition was magnificent. The thematic coherence was first-rate.,Satisfied
+P197,Philip,57,Male,Vermont,Princeton University,Dance,2024-11-01,"The choreography was weak. Overall, the dancers showed flawed skill. ",Very Dissatisfied
+P198,Elena,44,Female,Vermont,Imperial College London,Debate,2024-11-03,The logical structure was first-rate. The rhetorical skill was impressive. I would definitely recommend this to friends.,Very Satisfied
+P199,Louis,30,Male,Oklahoma,MIT,Fashion Show,2024-11-03,The fabric choices were bland. The overall aesthetic was standard. I valued the event.,Dissatisfied
+P200,Eva,60,Female,Washington,University of Wisconsin-Madison,Music,2024-11-05,The musical arrangement was bland. The vocalists were unsatisfactory. It was my second time attending such an event.,Very Dissatisfied
+P201,Liam,36,Male,Wisconsin,University of Chicago,Stand-up Comedy,2024-11-04,The jokes were disappointing. The comedian's timing was forgettable. ,Very Dissatisfied
+P202,Ruby,25,Male,New Mexico,"University of California, San Diego",Film Screening,2024-11-03,The directorial approach was phenomenal. The character development was extraordinary. Looking forward to future performances.,Satisfied
+P203,Blake,42,Female,New York,Indian Institute of Technology Delhi,Cooking Competition,2024-11-01,The dish presentation was forgettable. The flavor combinations were tolerable. ,Dissatisfied
+P204,Kennedy,32,Other,Vermont,"University of California, San Diego",Stand-up Comedy,2024-11-05,The comic narrative was impressive. The improvisation was first-rate. Looking forward to future performances.,Very Satisfied
+P205,Malik,57,Male,Hawaii,Indian Institute of Science,Drama,2024-11-05,The acting was moderate. The storyline was decent. The venue was well-suited to this type of event.,Satisfied
+P206,Jasmine,33,Male,New York,Columbia University,Film Screening,2024-11-05,The directorial approach was decent. The character development was extraordinary. I valued the atmosphere.,Satisfied
+P207,Omar,56,Other,Tennessee,"University of California, Los Angeles",Poetry,2024-11-05,The verse structure was phenomenal. The thematic exploration was masterful. ,Very Satisfied
+P208,Quinn,63,Male,Minnesota,University of Washington,Music,2024-11-02,The melody was deficient. The instrumental solos were deficient.,Very Dissatisfied
+P209,Aiden,34,Female,New Jersey,"University of California, Los Angeles",Art Exhibition,2024-11-01,The visual impact of the exhibition was adequate. The thematic coherence was brilliant.,Satisfied
+P210,Brooklyn,26,Other,Nevada,Fudan University,Dance,2024-11-05,The dance ensemble was flawed synchronized. The stage presence was bland. Looking forward to the next edition.,Very Dissatisfied
+P211,Oliver,50,Female,Montana,Northwestern University,Fashion Show,2024-11-05,The styling was typical. The thematic coherence was mediocre. ,Dissatisfied
+P212,Luna,58,Male,Minnesota,Boston University,Art Exhibition,2024-11-05,The visual impact of the exhibition was moderate. The thematic coherence was sufficient. Looking forward to future performances.,Neutral
+P213,Carter,63,Male,Alabama,Ohio State University,Debate,2024-11-03,The debating technique was brilliant. The overall engagement was outstanding. It was my first time attending such an event.,Satisfied
+P214,Hazel,61,Male,Ohio,University of Maryland,Dance,2024-11-03,"The choreography was moderate. Overall, the dancers showed mediocre skill.",Dissatisfied
+P215,Sebastian,33,Female,Nebraska,University of Illinois Urbana-Champaign,Poetry,2024-11-01,The metaphorical content was impressive. The poets' presence was excellent.,Satisfied
+P216,Aurora,65,Female,Utah,University of Michigan,Art Exhibition,2024-11-03,The artwork displayed was masterful. The curation was masterful. It was my first time attending such an event.,Satisfied
+P217,Wyatt,34,Male,Massachusetts,Oxford University,Film Screening,2024-11-02,The screenplay was disappointing. The emotional impact was uninspired.,Very Dissatisfied
+P218,Violet,51,Male,Ohio,Tsinghua University,Debate,2024-11-02,The topic exploration was superb. The counterpoints were fair. Looking forward to the next edition.,Satisfied
+P219,Gabriel,25,Female,Kansas,University College London,Film Screening,2024-11-02,The cinematography was phenomenal. The narrative pacing was stellar. Looking forward to the next edition.,Very Satisfied
+P220,Nova,41,Female,Maine,MIT,Debate,2024-11-04,The logical structure was decent. The rhetorical skill was passable. It was my first time attending such an event.,Satisfied
+P221,Julian,31,Female,Vermont,Tsinghua University,Fashion Show,2024-11-01,The fabric choices were poor. The overall aesthetic was mediocre. I really enjoyed the experience.,Dissatisfied
+P222,Scarlett,22,Female,New Hampshire,University of Illinois Urbana-Champaign,Art Exhibition,2024-11-03,The color schemes were average. The interpretive descriptions were decent. Looking forward to similar events.,Satisfied
+P223,Leo,62,Female,Utah,Cornell University,Stand-up Comedy,2024-11-05,The comedic delivery was inadequate. The material was lackluster. Looking forward to similar events.,Very Dissatisfied
+P224,Audrey,36,Other,Oklahoma,Harvard University,Drama,2024-11-03,The cast chemistry was fair. The narrative structure was adequate. I really enjoyed the atmosphere.,Neutral
+P225,Levi,44,Female,Iowa,University of Michigan,Debate,2024-11-02,The debating technique was mediocre. The overall engagement was ordinary.,Dissatisfied
+P226,Bella,53,Male,California,University of Notre Dame,Debate,2024-11-01,The evidence provided was adequate. The speakers' delivery was satisfactory. I would definitely recommend this to friends.,Neutral
+P227,Isaac,49,Male,Oregon,Oxford University,Cooking Competition,2024-11-03,The cooking technique was masterful. The overall execution was phenomenal.,Very Satisfied
+P228,Claire,35,Female,New Hampshire,Indian Institute of Technology Bombay,Drama,2024-11-03,The dialogues were amazing. The plot progression was moderate.,Satisfied
+P229,Mateo,30,Male,South Dakota,University of Melbourne,Music,2024-11-01,The musical arrangement was forgettable. The vocalists were inadequate.,Very Dissatisfied
+P230,Skylar,43,Male,North Carolina,Indian Institute of Technology Bombay,Cooking Competition,2024-11-03,The cooking technique was fair. The overall execution was passable. Looking forward to future performances.,Dissatisfied
+P231,Samuel,54,Female,Iowa,MIT,Drama,2024-11-04,The emotional depth of the performance was satisfactory. The staging was adequate. I would definitely recommend this to friends.,Neutral
+P232,Paisley,20,Other,Louisiana,Rice University,Stand-up Comedy,2024-11-01,The comedic delivery was incredible. The material was marvelous. I appreciated the occasion.,Very Satisfied
+P233,Lincoln,42,Other,Minnesota,Carnegie Mellon University,Art Exhibition,2024-11-05,The color schemes were sufficient. The interpretive descriptions were excellent. It was my first time attending such an event.,Satisfied
+P234,Savannah,56,Female,Michigan,Ohio State University,Music,2024-11-02,The musical arrangement was sufficient. The vocalists were sufficient. I valued the experience.,Satisfied
+P235,Caleb,26,Female,Hawaii,Princeton University,Dance,2024-11-05,The rhythm and movement were bland. The technical execution was acceptable.,Dissatisfied
+P236,Isla,48,Male,Pennsylvania,Pennsylvania State University,Fashion Show,2024-11-05,The fashion collection was unsatisfactory. The models' walks were weak. I liked the experience.,Dissatisfied
+P237,Owen,24,Male,Georgia,University of Minnesota,Debate,2024-11-05,The debating technique was brilliant. The overall engagement was masterful. It was my third time attending such an event.,Satisfied
+P238,Genesis,52,Female,Arizona,Georgia Institute of Technology,Fashion Show,2024-11-05,The fashion innovation was average. The show production was top-notch. The venue was well-suited to this type of event.,Satisfied
+P239,Hudson,23,Male,Alabama,"University of California, Berkeley",Debate,2024-11-04,The arguments presented were typical. The rebuttals were ordinary.,Neutral
+P240,Naomi,45,Female,Oregon,University of Sydney,Poetry,2024-11-03,The metaphorical content was amazing. The poets' presence was magnificent. Looking forward to the next edition.,Very Satisfied
+P241,Jethro,34,Other,Florida,University of North Carolina at Chapel Hill,Cooking Competition,2024-11-03,The dish presentation was top-notch. The flavor combinations were ordinary.,Satisfied
+P242,Eileen,42,Other,Rhode Island,Indian Institute of Technology Delhi,Dance,2024-11-01,The dancers demonstrated fair coordination. The performance was fair.,Dissatisfied
+P243,Kusuma,43,Female,Wyoming,Princeton University,Debate,2024-11-03,The logical structure was wonderful. The rhetorical skill was top-notch. Looking forward to similar events.,Very Satisfied
+P244,Tushar,62,Male,Tennessee,Duke University,Drama,2024-11-01,The acting was fair. The storyline was adequate. Looking forward to the next edition.,Neutral
+P245,BoBo,53,Male,Louisiana,Carnegie Mellon University,Debate,2024-11-05,The logical structure was typical. The rhetorical skill was satisfactory. I valued the occasion.,Neutral
+P246,Elza,39,Female,Oregon,University of Minnesota,Debate,2024-11-03,The evidence provided was top-notch. The speakers' delivery was stellar.,Very Satisfied
+P247,Dave,48,Male,Vermont,Boston University,Music,2024-11-04,The band's performance was unimpressive and the acoustics were sufficient.,Dissatisfied
+P248,Donkin,61,Female,New Mexico,University of Michigan,Stand-up Comedy,2024-11-01,The comedic delivery was masterful. The material was brilliant.,Very Satisfied
+P249,Iba,34,Male,Georgia,Carnegie Mellon University,Art Exhibition,2024-11-02,The artwork displayed was impressive. The curation was remarkable. The venue was appropriate for this type of event.,Very Satisfied
+P250,Morningstar,54,Female,Montana,Northwestern University,Film Screening,2024-11-02,The acting performances were incredible. The storyline was exceptional. ,Very Satisfied
